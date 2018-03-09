@@ -11,5 +11,4 @@ class App < Sinatra::Base
     erb :index
   end
 
-
 end
